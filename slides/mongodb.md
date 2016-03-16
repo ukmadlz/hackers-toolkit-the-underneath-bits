@@ -2,7 +2,7 @@
 
 Roll your own:
 
-![Redis](images/mongodb.png)
+![MongoDB](images/mongodb.png)
 
 DBaaS:
 

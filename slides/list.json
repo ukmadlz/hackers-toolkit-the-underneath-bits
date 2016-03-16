@@ -138,5 +138,7 @@
     "redis.md",
     "document-dbs.md",
     "mongodb.md",
-    "couchdb.md"
+    "couchdb.md",
+    "graphs.md",
+    "tinkerpop3.md"
 ]
