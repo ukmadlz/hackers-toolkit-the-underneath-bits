@@ -115,5 +115,23 @@
         "attr": {
             "data-background": "images/in-the-database.gif"
         }
-    }
+    },
+    "open-source-databases.md",
+    "different-databases-for-different-jobs.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/hammer-explosion.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/bb8-rolling.gif"
+        }
+    },
+    "homebrew.md",
+    "relational.md",
+    "mysql.md",
+    "postgresql.md"
 ]
