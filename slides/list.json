@@ -133,5 +133,7 @@
     "homebrew.md",
     "relational.md",
     "mysql.md",
-    "postgresql.md"
+    "postgresql.md",
+    "key-value.md",
+    "redis.md"
 ]
