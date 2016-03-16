@@ -140,5 +140,11 @@
     "mongodb.md",
     "couchdb.md",
     "graphs.md",
-    "tinkerpop3.md"
+    "tinkerpop3.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/iron-man-christmas.gif"
+        }
+    }
 ]
