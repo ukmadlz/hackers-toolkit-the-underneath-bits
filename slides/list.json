@@ -86,5 +86,16 @@
             "data-background": "images/flynn-choices.gif"
         }
     },
-    "iaas-problems.md"
+    "iaas-problems.md",
+    "baremetal.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/futurama-put-the-metal-to-pedal-other.gif"
+        }
+    },
+    "baremetal-what.md",
+    "baremetal-problems.md",
+    "cloud-isnt-the-only-option.md",
+    "cloud-quote.md"
 ]
