@@ -146,5 +146,12 @@
         "attr": {
             "data-background": "images/iron-man-christmas.gif"
         }
-    }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/woah.gif"
+        }
+    },
+    "questions.md"
 ]
