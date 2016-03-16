@@ -76,5 +76,16 @@
     },
     "paas.md",
     "paas-what.md",
-    "paas-options.md"
+    "paas-options.md",
+    "iaas.md",
+    "iaas-what.md",
+    "iaas-options.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/flynn-choices.gif"
+        }
+    },
+    "iaas-problems.md",
+    "baremetal.md"
 ]
