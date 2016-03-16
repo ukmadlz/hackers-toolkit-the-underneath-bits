@@ -135,5 +135,8 @@
     "mysql.md",
     "postgresql.md",
     "key-value.md",
-    "redis.md"
+    "redis.md",
+    "document-dbs.md",
+    "mongodb.md",
+    "couchdb.md"
 ]
