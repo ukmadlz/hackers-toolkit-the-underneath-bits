@@ -53,5 +53,12 @@
     "webapp-and-api-guy.md",
     "isnt-about-languages-or-design-patterns.md",
     "infrastructure-and-tooling.md",
-    "lets-go.md"
+    "lets-go.md",
+    "where-to-start.md",
+    "on-your-dev-machine.md",
+    "use-a-vm-or-container.md",
+    "vagrant-or-docker.md",
+    "why-local-vms.md",
+    "what-if-i-want-to-show-off-something-on-my-machine.md",
+    "tunneling.md"
 ]
