@@ -86,5 +86,52 @@
             "data-background": "images/flynn-choices.gif"
         }
     },
-    "iaas-problems.md"
+    "iaas-problems.md",
+    "baremetal.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/futurama-put-the-metal-to-pedal-other.gif"
+        }
+    },
+    "baremetal-what.md",
+    "baremetal-problems.md",
+    "cloud-isnt-the-only-option.md",
+    "cloud-quote.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/sad-panda.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/lego-awesome.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/in-the-database.gif"
+        }
+    },
+    "open-source-databases.md",
+    "different-databases-for-different-jobs.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/hammer-explosion.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/bb8-rolling.gif"
+        }
+    },
+    "homebrew.md",
+    "relational.md",
+    "mysql.md",
+    "postgresql.md"
 ]
