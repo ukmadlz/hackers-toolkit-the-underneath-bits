@@ -38,5 +38,19 @@
                 "data-background": "images/headdesk.gif"
             }
         }
-    ]
+    ],
+    "follow-along.md",
+    "getting-started.md",
+    "app-development.md",
+    "app-development-not-mobile.md",
+    "sorry.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/han-shrug.gif"
+        }
+    },
+    "webapp-and-api-guy.md",
+    "isnt-about-languages-or-design-patterns.md",
+    "infrastructure-and-tooling.md"
 ]
