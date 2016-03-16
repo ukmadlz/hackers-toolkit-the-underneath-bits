@@ -53,5 +53,38 @@
     "webapp-and-api-guy.md",
     "isnt-about-languages-or-design-patterns.md",
     "infrastructure-and-tooling.md",
-    "lets-go.md"
+    "lets-go.md",
+    "where-to-start.md",
+    "on-your-dev-machine.md",
+    "use-a-vm-or-container.md",
+    "vagrant-or-docker.md",
+    "why-local-vms.md",
+    "what-if-i-want-to-show-off-something-on-my-machine.md",
+    "tunneling.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/loki-face-palm.gif"
+        }
+    },
+    "hosting.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/birds-eye.gif"
+        }
+    },
+    "paas.md",
+    "paas-what.md",
+    "paas-options.md",
+    "iaas.md",
+    "iaas-what.md",
+    "iaas-options.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/flynn-choices.gif"
+        }
+    },
+    "iaas-problems.md"
 ]
