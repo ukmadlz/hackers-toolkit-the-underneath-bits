@@ -97,5 +97,23 @@
     "baremetal-what.md",
     "baremetal-problems.md",
     "cloud-isnt-the-only-option.md",
-    "cloud-quote.md"
+    "cloud-quote.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/sad-panda.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/lego-awesome.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/in-the-database.gif"
+        }
+    }
 ]
