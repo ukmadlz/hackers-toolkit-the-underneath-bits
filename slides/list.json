@@ -60,5 +60,21 @@
     "vagrant-or-docker.md",
     "why-local-vms.md",
     "what-if-i-want-to-show-off-something-on-my-machine.md",
-    "tunneling.md"
+    "tunneling.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/loki-face-palm.gif"
+        }
+    },
+    "hosting.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/birds-eye.gif"
+        }
+    },
+    "paas.md",
+    "paas-what.md",
+    "paas-options.md"
 ]
